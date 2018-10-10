@@ -85,6 +85,12 @@ a {
   margin-top: 1rem;
 }
 
+/* Background */
+.bg-light {
+  background: var(--light-colour);
+  color: #333;
+}
+
 /* Buttons */
 .btn {
   padding: 1rem;
